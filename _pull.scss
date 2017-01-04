@@ -1,7 +1,7 @@
 // ==========================================================================
-// PULL UTIL
+// Pull Utility
 // ==========================================================================
-// #ABSTRACT
+//
 
 /*doc
 ---
@@ -16,7 +16,6 @@ Pulls an element left or right
     <div class="u-pull--left">Floated left</div>
     <div class="u-pull--right">Floated right</div>
 ```
-
 */
 
 .u-pull--left {
@@ -25,12 +24,4 @@ Pulls an element left or right
 
 .u-pull--right {
     float: right;
-}
-
-.u-clear--left {
-    clear: left;
-}
-
-.u-clear--right {
-    clear: right;
 }
