@@ -1,15 +1,9 @@
 {
   "name": "mep-utilities.pull",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Pull Utility",
   "main": "stylesheets/_utility-pull.scss",
-  "eyeglass": {
-    "needs": "^1.0.0",
-    "name": "utility-pull",
-    "exports": "eyeglass-exports.js"
-  },
   "keywords": [
-    "eyeglass-module",
     "sass",
     "mise-en-place"
   ],
